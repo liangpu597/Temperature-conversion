@@ -1,0 +1,9 @@
+E:\Code\VisualStudio\C#\Wealther\bin\Debug\Wealther.exe.config
+E:\Code\VisualStudio\C#\Wealther\bin\Debug\Wealther.exe
+E:\Code\VisualStudio\C#\Wealther\bin\Debug\Wealther.pdb
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.csprojAssemblyReference.cache
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.Form1.resources
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.Properties.Resources.resources
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.csproj.GenerateResource.cache
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.exe
+E:\Code\VisualStudio\C#\Wealther\obj\Debug\Wealther.pdb
